@@ -1,0 +1,21 @@
+driver_id,driver_name,origin,origin_lat,origin_lon,origin_zone,destination,destination_lat,destination_lon,destination_zone,departure_time,time_flexibility_mins,seats_available,vehicle_type,max_detour_mins,accepts_accessibility,status
+D001,Joshua Stewart,Peckham,51.4742,-0.0697,South East,Wembley,51.556,-0.2795,North West,08:00,10,3,Electric,30,FALSE,available
+D002,Philip Clarke,Hackney,51.545,-0.0553,East,Greenwich,51.4826,0.0077,South East,08:45,5,2,Hybrid,15,TRUE,available
+D003,Henry O'Brien,Croydon,51.3762,-0.0982,South,Peckham,51.4742,-0.0697,South East,09:15,15,1,Hybrid,10,TRUE,available
+D004,Leon Davison,Tottenham,51.5888,-0.0726,North,London Bridge,51.5079,-0.0877,Central,09:15,10,2,Petrol,30,TRUE,available
+D005,Kayleigh Mitchell,Wimbledon,51.4214,-0.2064,South West,London Bridge,51.5079,-0.0877,Central,07:30,5,1,Diesel,25,TRUE,available
+D006,Oliver Edwards-Matthews,Ealing,51.513,-0.3089,West,Paddington,51.5154,-0.1755,West,09:15,5,1,Petrol,25,FALSE,available
+D007,Victor Patel,Chelsea,51.4875,-0.1687,West,Wembley,51.556,-0.2795,North West,09:15,15,3,Hybrid,15,FALSE,available
+D008,Eric O'Neill,Tottenham,51.5888,-0.0726,North,Ealing,51.513,-0.3089,West,08:15,5,3,Electric,15,FALSE,available
+D009,Charlotte Haynes,Shoreditch,51.5245,-0.078,East,Chelsea,51.4875,-0.1687,West,09:30,10,4,Hybrid,10,TRUE,available
+D010,Martyn Wilson,Ealing,51.513,-0.3089,West,Whitechapel,51.519,-0.0594,East,08:45,15,1,Petrol,30,TRUE,available
+D011,Sarah Hammond,King's Cross,51.5308,-0.1238,Central,Waterloo,51.5036,-0.1143,Central,09:00,10,2,Hybrid,10,TRUE,available
+D012,Robert Wilson,Tottenham,51.5888,-0.0726,North,Victoria,51.4965,-0.1447,Central,08:15,10,2,Electric,30,FALSE,available
+D013,Maria Bruce,King's Cross,51.5308,-0.1238,Central,Clapham,51.4629,-0.1381,South,08:00,15,1,Hybrid,10,TRUE,available
+D014,Olivia King,Victoria,51.4965,-0.1447,Central,Tottenham,51.5888,-0.0726,North,08:00,5,1,Diesel,20,FALSE,available
+D015,Kayleigh Daniels,Ealing,51.513,-0.3089,West,Brixton,51.4627,-0.114,South,09:15,5,3,Diesel,20,FALSE,available
+D016,Gerard Jones,Chelsea,51.4875,-0.1687,West,Clapham,51.4629,-0.1381,South,08:45,10,1,Petrol,25,FALSE,available
+D017,Dr Dennis Bates,Paddington,51.5154,-0.1755,West,Islington,51.5465,-0.1058,North,07:00,5,3,Diesel,20,TRUE,available
+D018,Lydia Williams,Shoreditch,51.5245,-0.078,East,King's Cross,51.5308,-0.1238,Central,08:45,15,4,Petrol,10,TRUE,available
+D019,Dr Joan Taylor,Wimbledon,51.4214,-0.2064,South West,Tottenham,51.5888,-0.0726,North,07:30,15,1,Hybrid,30,FALSE,available
+D020,Hazel Lambert,Victoria,51.4965,-0.1447,Central,Lewisham,51.4613,-0.0105,South East,07:30,10,2,Petrol,20,FALSE,available

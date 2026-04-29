@@ -1,0 +1,31 @@
+﻿location,latitude,longitude,zone,type
+Camden,51.539,-0.1426,North,Residential/Leisure
+Islington,51.5465,-0.1058,North,Residential
+Stratford,51.5413,-0.003,East,Residential/Business
+Canary Wharf,51.5054,-0.0235,East,Business
+Bank,51.5133,-0.0896,Central,Business
+Westminster,51.4975,-0.1357,Central,Government/Business
+Brixton,51.4627,-0.114,South,Residential
+Greenwich,51.4826,0.0077,South East,Residential/Leisure
+Hackney,51.545,-0.0553,East,Residential
+Chelsea,51.4875,-0.1687,West,Residential
+Ealing,51.513,-0.3089,West,Residential
+Hammersmith,51.4927,-0.2239,West,Business/Residential
+Southwark,51.5035,-0.0804,Central,Residential/Business
+Croydon,51.3762,-0.0982,South,Residential
+Wembley,51.556,-0.2795,North West,Residential
+King's Cross,51.5308,-0.1238,Central,Transport/Business
+Waterloo,51.5036,-0.1143,Central,Transport/Business
+London Bridge,51.5079,-0.0877,Central,Transport/Business
+Shoreditch,51.5245,-0.078,East,Business/Leisure
+Whitechapel,51.519,-0.0594,East,Residential/Business
+Paddington,51.5154,-0.1755,West,Transport/Business
+Victoria,51.4965,-0.1447,Central,Transport/Business
+Clapham,51.4629,-0.1381,South,Residential
+Lewisham,51.4613,-0.0105,South East,Residential
+Finsbury Park,51.5646,-0.1063,North,Residential/Transport
+Tottenham,51.5888,-0.0726,North,Residential
+Richmond,51.4613,-0.3037,South West,Residential/Leisure
+Wimbledon,51.4214,-0.2064,South West,Residential
+Peckham,51.4742,-0.0697,South East,Residential
+Mile End,51.5251,-0.0334,East,Residential/Student

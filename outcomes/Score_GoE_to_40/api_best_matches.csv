@@ -1,0 +1,11 @@
+passenger_id,passenger_name,passenger_origin,passenger_destination,passenger_time,driver_id,driver_name,driver_origin,driver_destination,driver_time,driver_vehicle_type,driver_seats_available,api_match_score,detour_mins,detour_km,carpool_duration_mins,match_category,final_status
+P001,William Jennings,Wimbledon,Camden,09:30,D009,Charlotte Haynes,Shoreditch,Chelsea,09:30,Hybrid,4,45.0,89.86,33.66,120.76,Weak match,matched
+P002,Lesley Wilson-Newman,Bank,Canary Wharf,07:45,D010,Martyn Wilson,Ealing,Whitechapel,08:45,Petrol,1,38.07,20.94,9.34,73.6,Not recommended,unmatched
+P003,Abdul Hopkins,Richmond,London Bridge,09:30,D009,Charlotte Haynes,Shoreditch,Chelsea,09:30,Hybrid,4,45.0,90.55,37.57,121.45,Weak match,matched
+P004,Mrs Lauren Green,Paddington,Ealing,07:15,D009,Charlotte Haynes,Shoreditch,Chelsea,09:30,Hybrid,4,30.5,45.65,23.42,76.55,Not recommended,unmatched
+P005,Tina Foster,London Bridge,Waterloo,09:00,D001,Joshua Stewart,Peckham,Wembley,08:00,Electric,3,46.4,11.66,2.92,70.52,Weak match,matched
+P006,Nigel Edwards,Brixton,Hackney,09:15,D003,Henry O'Brien,Croydon,Peckham,09:15,Hybrid,1,52.5,66.43,20.65,101.97,Weak match,matched
+P007,Abdul Burton-Patterson,London Bridge,Southwark,08:15,D001,Joshua Stewart,Peckham,Wembley,08:00,Electric,3,53.68,13.99,3.01,72.85,Weak match,matched
+P008,Sarah Reed-Walsh,Hackney,Lewisham,07:15,D002,Philip Clarke,Hackney,Greenwich,08:45,Hybrid,2,35.0,18.19,7.69,41.14,Not recommended,unmatched
+P009,Miss Olivia Bryan,Westminster,Croydon,08:15,D008,Eric O'Neill,Tottenham,Ealing,08:15,Electric,3,47.0,101.08,33.23,148.2,Weak match,matched
+P010,Dr Lee Green,Westminster,Southwark,09:00,D010,Martyn Wilson,Ealing,Whitechapel,08:45,Petrol,1,48.1,11.27,3.76,63.93,Weak match,matched

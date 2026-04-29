@@ -1,0 +1,132 @@
+origin,destination,distance_km,duration_mins
+Camden,Canary Wharf,11.89,34.65
+Peckham,Wembley,24.98,58.86
+Peckham,Wimbledon,14.79,36.62
+Wimbledon,Camden,17.36,46.32
+Camden,Wembley,14.46,31.38
+Hackney,Greenwich,11.0,22.95
+Hackney,Wimbledon,20.87,62.53
+Camden,Greenwich,17.94,45.11
+Croydon,Peckham,15.57,35.54
+Croydon,Wimbledon,13.9,28.43
+Camden,Peckham,10.03,31.75
+Tottenham,London Bridge,10.74,37.71
+Tottenham,Wimbledon,26.03,72.48
+Camden,London Bridge,6.27,20.81
+Wimbledon,London Bridge,15.91,44.51
+Wimbledon,Wimbledon,0.0,0.0
+Ealing,Paddington,10.79,22.83
+Ealing,Wimbledon,18.42,39.68
+Camden,Paddington,5.07,16.18
+Chelsea,Wembley,15.43,33.56
+Chelsea,Wimbledon,9.35,22.78
+Tottenham,Ealing,24.91,47.12
+Camden,Ealing,14.89,33.56
+Shoreditch,Chelsea,9.46,30.9
+Shoreditch,Wimbledon,17.72,51.57
+Camden,Chelsea,8.04,22.87
+Ealing,Whitechapel,20.57,52.66
+Camden,Whitechapel,8.51,27.43
+Hackney,Bank,5.32,19.86
+Bank,Canary Wharf,6.44,17.5
+Canary Wharf,Greenwich,7.47,15.63
+Croydon,Bank,18.92,50.52
+Canary Wharf,Peckham,8.91,21.73
+Tottenham,Bank,11.4,36.29
+Canary Wharf,London Bridge,6.61,17.19
+Wimbledon,Bank,15.92,44.8
+Shoreditch,Bank,2.17,8.89
+Canary Wharf,Chelsea,13.17,36.08
+Ealing,Bank,18.48,44.67
+Canary Wharf,Whitechapel,4.99,11.43
+Hackney,Richmond,23.21,60.99
+Richmond,London Bridge,17.92,44.31
+London Bridge,Greenwich,12.84,29.2
+Croydon,Richmond,25.69,53.05
+London Bridge,Peckham,4.48,13.24
+Tottenham,Richmond,31.32,62.8
+London Bridge,London Bridge,0.0,0.0
+Wimbledon,Richmond,12.08,25.6
+Shoreditch,Richmond,21.02,52.44
+London Bridge,Chelsea,8.09,24.7
+Ealing,Richmond,9.14,23.32
+London Bridge,Whitechapel,3.17,12.12
+Hackney,Paddington,10.88,36.66
+Paddington,Ealing,10.69,22.07
+Ealing,Greenwich,30.54,69.01
+Croydon,Paddington,23.04,58.26
+Ealing,Peckham,21.01,51.76
+Tottenham,Paddington,13.34,44.77
+Ealing,London Bridge,18.87,44.71
+Wimbledon,Paddington,14.99,38.7
+Shoreditch,Paddington,9.23,28.23
+Ealing,Chelsea,12.96,26.25
+Peckham,London Bridge,5.19,16.38
+London Bridge,Waterloo,2.88,10.7
+Waterloo,Wembley,19.83,43.44
+Hackney,London Bridge,5.63,20.98
+Waterloo,Greenwich,12.37,35.06
+Croydon,London Bridge,18.91,50.22
+Waterloo,Peckham,5.64,18.57
+Waterloo,London Bridge,3.44,12.28
+Waterloo,Paddington,6.77,20.0
+Chelsea,London Bridge,7.3,22.32
+Waterloo,Ealing,17.35,38.75
+Shoreditch,London Bridge,2.48,10.01
+Waterloo,Chelsea,4.88,17.11
+Waterloo,Whitechapel,5.51,20.39
+Peckham,Brixton,4.5,13.18
+Brixton,Hackney,12.77,40.97
+Hackney,Wembley,21.74,49.49
+Hackney,Brixton,12.85,40.49
+Croydon,Brixton,13.16,30.52
+Hackney,Peckham,10.29,30.48
+Tottenham,Brixton,16.86,56.14
+Wimbledon,Brixton,10.4,24.43
+Ealing,Brixton,19.41,44.87
+Chelsea,Brixton,7.69,21.61
+Hackney,Ealing,20.69,54.03
+Shoreditch,Brixton,8.17,30.12
+Hackney,Chelsea,12.79,39.98
+Hackney,Whitechapel,3.21,11.99
+London Bridge,Southwark,0.82,4.06
+Southwark,Wembley,21.98,52.41
+Southwark,Greenwich,9.69,25.84
+Southwark,Peckham,3.96,11.99
+Southwark,London Bridge,1.52,7.01
+Southwark,Paddington,8.92,28.96
+Southwark,Ealing,19.5,47.72
+Southwark,Chelsea,7.42,26.35
+Southwark,Whitechapel,3.66,12.12
+Peckham,Hackney,10.2,30.35
+Hackney,Lewisham,14.7,30.5
+Lewisham,Wembley,29.64,75.35
+Hackney,Hackney,0.0,0.0
+Lewisham,Greenwich,3.99,10.64
+Croydon,Hackney,30.52,59.69
+Lewisham,Peckham,5.44,18.23
+Tottenham,Hackney,6.1,21.68
+Lewisham,London Bridge,10.28,32.09
+Wimbledon,Hackney,20.87,62.85
+Ealing,Hackney,20.79,55.28
+Lewisham,Paddington,16.58,51.91
+Chelsea,Hackney,12.16,39.24
+Lewisham,Ealing,27.25,70.52
+Shoreditch,Hackney,3.71,12.48
+Lewisham,Chelsea,14.16,44.99
+Lewisham,Whitechapel,12.71,30.33
+Peckham,Westminster,6.6,22.05
+Westminster,Croydon,16.58,42.26
+Croydon,Wembley,30.63,71.11
+Hackney,Westminster,9.82,33.56
+Croydon,Greenwich,17.43,40.55
+Croydon,Westminster,18.75,47.36
+Tottenham,Westminster,13.86,43.42
+Wimbledon,Westminster,12.33,31.62
+Ealing,Westminster,15.13,32.81
+Chelsea,Westminster,2.84,7.96
+Croydon,Ealing,27.7,62.52
+Shoreditch,Westminster,6.67,22.6
+Croydon,Chelsea,17.54,43.22
+Croydon,Whitechapel,23.46,54.97
+Westminster,Southwark,5.54,19.0

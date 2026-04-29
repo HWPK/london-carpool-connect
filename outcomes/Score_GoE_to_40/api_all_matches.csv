@@ -1,0 +1,31 @@
+passenger_id,passenger_name,passenger_origin,passenger_destination,passenger_time,driver_id,driver_name,driver_origin,driver_destination,driver_time,driver_vehicle_type,driver_seats_available,api_match_score,detour_mins,detour_km,carpool_duration_mins,match_category
+P001,William Jennings,Wimbledon,Camden,09:30,D009,Charlotte Haynes,Shoreditch,Chelsea,09:30,Hybrid,4,45.0,89.86,33.66,120.76,Weak match
+P001,William Jennings,Wimbledon,Camden,09:30,D005,Kayleigh Mitchell,Wimbledon,London Bridge,07:30,Diesel,1,26.83,22.62,7.72,67.13,Not recommended
+P001,William Jennings,Wimbledon,Camden,09:30,D007,Victor Patel,Chelsea,Wembley,09:15,Hybrid,3,26.25,66.92,25.74,100.48,Not recommended
+P002,Lesley Wilson-Newman,Bank,Canary Wharf,07:45,D010,Martyn Wilson,Ealing,Whitechapel,08:45,Petrol,1,38.07,20.94,9.34,73.6,Not recommended
+P002,Lesley Wilson-Newman,Bank,Canary Wharf,07:45,D002,Philip Clarke,Hackney,Greenwich,08:45,Hybrid,2,23.0,30.04,8.23,52.99,Not recommended
+P002,Lesley Wilson-Newman,Bank,Canary Wharf,07:45,D009,Charlotte Haynes,Shoreditch,Chelsea,09:30,Hybrid,4,23.0,31.57,12.32,62.47,Not recommended
+P003,Abdul Hopkins,Richmond,London Bridge,09:30,D009,Charlotte Haynes,Shoreditch,Chelsea,09:30,Hybrid,4,45.0,90.55,37.57,121.45,Weak match
+P003,Abdul Hopkins,Richmond,London Bridge,09:30,D005,Kayleigh Mitchell,Wimbledon,London Bridge,07:30,Diesel,1,31.0,25.4,14.09,69.91,Not recommended
+P003,Abdul Hopkins,Richmond,London Bridge,09:30,D003,Henry O'Brien,Croydon,Peckham,09:15,Hybrid,1,26.25,75.06,32.52,110.6,Not recommended
+P004,Mrs Lauren Green,Paddington,Ealing,07:15,D009,Charlotte Haynes,Shoreditch,Chelsea,09:30,Hybrid,4,30.5,45.65,23.42,76.55,Not recommended
+P004,Mrs Lauren Green,Paddington,Ealing,07:15,D010,Martyn Wilson,Ealing,Whitechapel,08:45,Petrol,1,27.5,44.9,21.48,97.56,Not recommended
+P004,Mrs Lauren Green,Paddington,Ealing,07:15,D003,Henry O'Brien,Croydon,Peckham,09:15,Hybrid,1,23.0,96.55,39.17,132.09,Not recommended
+P005,Tina Foster,London Bridge,Waterloo,09:00,D001,Joshua Stewart,Peckham,Wembley,08:00,Electric,3,46.4,11.66,2.92,70.52,Weak match
+P005,Tina Foster,London Bridge,Waterloo,09:00,D004,Leon Davison,Tottenham,London Bridge,09:15,Petrol,2,41.94,22.98,6.32,60.69,Weak match
+P005,Tina Foster,London Bridge,Waterloo,09:00,D010,Martyn Wilson,Ealing,Whitechapel,08:45,Petrol,1,38.0,23.14,6.69,75.8,Not recommended
+P006,Nigel Edwards,Brixton,Hackney,09:15,D003,Henry O'Brien,Croydon,Peckham,09:15,Hybrid,1,52.5,66.43,20.65,101.97,Weak match
+P006,Nigel Edwards,Brixton,Hackney,09:15,D007,Victor Patel,Chelsea,Wembley,09:15,Hybrid,3,45.0,78.51,26.77,112.07,Weak match
+P006,Nigel Edwards,Brixton,Hackney,09:15,D006,Oliver Edwards-Matthews,Ealing,Paddington,09:15,Petrol,1,42.0,99.67,32.27,122.5,Weak match
+P007,Abdul Burton-Patterson,London Bridge,Southwark,08:15,D001,Joshua Stewart,Peckham,Wembley,08:00,Electric,3,53.68,13.99,3.01,72.85,Weak match
+P007,Abdul Burton-Patterson,London Bridge,Southwark,08:15,D008,Eric O'Neill,Tottenham,Ealing,08:15,Electric,3,50.0,42.37,6.15,89.49,Weak match
+P007,Abdul Burton-Patterson,London Bridge,Southwark,08:15,D004,Leon Davison,Tottenham,London Bridge,09:15,Petrol,2,49.59,11.07,2.34,48.78,Weak match
+P008,Sarah Reed-Walsh,Hackney,Lewisham,07:15,D002,Philip Clarke,Hackney,Greenwich,08:45,Hybrid,2,35.0,18.19,7.69,41.14,Not recommended
+P008,Sarah Reed-Walsh,Hackney,Lewisham,07:15,D003,Henry O'Brien,Croydon,Peckham,09:15,Hybrid,1,27.5,72.88,35.09,108.42,Not recommended
+P008,Sarah Reed-Walsh,Hackney,Lewisham,07:15,D009,Charlotte Haynes,Shoreditch,Chelsea,09:30,Hybrid,4,27.5,57.07,23.11,87.97,Not recommended
+P009,Miss Olivia Bryan,Westminster,Croydon,08:15,D008,Eric O'Neill,Tottenham,Ealing,08:15,Electric,3,47.0,101.08,33.23,148.2,Weak match
+P009,Miss Olivia Bryan,Westminster,Croydon,08:15,D001,Joshua Stewart,Peckham,Wembley,08:00,Electric,3,32.0,76.56,28.83,135.42,Not recommended
+P009,Miss Olivia Bryan,Westminster,Croydon,08:15,D002,Philip Clarke,Hackney,Greenwich,08:45,Hybrid,2,20.0,93.42,32.83,116.37,Not recommended
+P010,Dr Lee Green,Westminster,Southwark,09:00,D010,Martyn Wilson,Ealing,Whitechapel,08:45,Petrol,1,48.1,11.27,3.76,63.93,Weak match
+P010,Dr Lee Green,Westminster,Southwark,09:00,D005,Kayleigh Mitchell,Wimbledon,London Bridge,07:30,Diesel,1,43.13,13.12,3.48,57.63,Weak match
+P010,Dr Lee Green,Westminster,Southwark,09:00,D007,Victor Patel,Chelsea,Wembley,09:15,Hybrid,3,29.25,45.81,14.93,79.37,Not recommended

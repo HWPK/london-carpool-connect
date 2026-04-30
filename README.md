@@ -97,7 +97,7 @@ The prototype does not include:
 - User ratings
 - Direct messaging between users
 
-##Limitations
+## Limitations
 
 The project uses sample datasets rather than live user data. This means the results demonstrate the matching process but do not fully represent real London commuting behaviour.
 
